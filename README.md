@@ -2,6 +2,9 @@
 
 Media Converter is a Java application that converts media files to the MP4 format using FFmpeg. This application provides a simple GUI (Graphical User Interface) for selecting the input file, specifying the output file, and initiating the conversion process.
 
+## What is a .MEDIA file?
+A MEDIA file is a video created by one of several Wi-Fi-enabled surveillance cameras. It contains footage captured by the camera. It is known that MEDIA files are created by LittLelf and Larkkey cameras, which are sold on Amazon.com.
+
 ## Features
 
 - Converts media files to the MP4 format using FFmpeg.
